@@ -3,14 +3,12 @@ minimal_mistakes_skin    : "dark"  # 전체적인 색감 정의
                            # "dirt", "neon", "mint", "plum", "sunrise"
 # 사이트 설정
 locale                   : "ko-KR"    # 주요 언어 (한국어)
-title                    : "나의 Github 포트폴리오"  # 사이트 탭에서 보이는 이름입니다.
-title_separator          : "-"
-subtitle                 : "version 1.0"              # 화면 title 하단에 있는 소제목입니다.
-name                     : "당현아(Dang Hyeona)"      # 화면 하단 영역의 이름입니다.
-description              : "매일 반복하는 공부 습관"   # 설명란입니다. (어디 적용되는지 모르겠네요...) 
-url                      : "https://eona1301.github.io" # 현재의 블로그 url 입니다.
-baseurl                  : # 폴백(예기치 못한 오류)일 때 연결되는 url입니다.
-repository               : "https://github.com/eona1301/eona1301.github.io" # Github Repo url입니다.
+title                    : "나의 Github 포트폴리오"  # 사이트 메인에 보이는 이름입니다.
+subtitle                 : "version 0.45"           # 화면 title 하단 소제목
+name                     : "이성만(TREX99)"          # 화면 하단 영역의 이름
+description              : "강의를 위한 준비 사이트"  # 화면 title 상단 소제목
+url                      : "https://trex99.github.io" # 현재 url
+baseurl                  : # 오류 발생시 이동할 url
+repository               : "https://github.com/trex99/trex99.github.io" # Github 리포지토리 url
 teaser                   : # 폴백일 때 보일 이미지입니다. "assets/images/"로 연결됩니다.
-logo                     : # 화면에 보여지는 logo 이미지입니다. "assets/images"로 세팅합니다.
-masthead_title           : "정리가 재밌는 개발자"     # 화면 title 입니다.
+logo                     : "assets/images/trex.jpg"# logo 이미지
